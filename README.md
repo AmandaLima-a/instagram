@@ -6,4 +6,4 @@ Programação do zero com Rodolfo Mori
 
 <p>Foram utilizados: Html, css e JavaScript(SetInterval - para ficar alterando entre duas imagens)</p>
 
-<a href="https://amandalima-a.github.io/instagram/"> Site </a>
+<a href="https://amandalima-a.github.io/instagram/" target="_blank"> Site </a>
